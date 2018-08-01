@@ -1,8 +1,8 @@
 # Luke and Leia
 A repo for cat related things.
 
-[](https://github.com/ananova/luke-and-leia/blob/master/img/luke.jpeg)
-[](https://github.com/ananova/luke-and-leia/blob/master/img/leia.jpeg)
+![image](https://github.com/ananova/luke-and-leia/blob/master/img/luke.jpeg)
+![image](https://github.com/ananova/luke-and-leia/blob/master/img/leia.jpeg)
 
 ## Litter
 I use the [Oz-Pet](http://www.oz-pet.net.au/index.html) litter system.  [This video](https://www.youtube.com/watch?v=ixyV8uSoQFU) is hilarious.
